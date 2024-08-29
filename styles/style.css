@@ -7,9 +7,6 @@
   background-attachment: fixed;
   min-height: 100dvh;
   color: var(--accent-color);
-}
-
-.page {
   padding-inline: var(--padding);
 }
 
