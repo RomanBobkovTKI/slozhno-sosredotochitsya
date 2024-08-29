@@ -8,11 +8,12 @@
   color: var(--accent-color);
 }
 
-.theme_dark .header__theme-dark-decor {
+.theme_dark .header__decor-rec {
   display: inline-block;
 }
 
-.theme_dark .title-decor {
+.theme_dark .title-decor,
+.title-decor {
   --text-color: var(--background-color);
 }
 
